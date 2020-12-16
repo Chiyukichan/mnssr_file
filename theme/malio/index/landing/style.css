@@ -155,7 +155,7 @@ body {
 }
 
 .hero-mini {
-	background-image: linear-gradient(to right, #697ded, #5e30c1);
+	background-image: linear-gradient(to right, #ff6caa, #F19EC2);
 	padding-top: 40px;
 	height: 500px;
 	display: flex;
@@ -594,7 +594,7 @@ footer {
 	letter-spacing: 2px;
 	font-size: 10px;
 	position: relative;
-	background-image: linear-gradient(to right, #697ded, #5e30c1);
+	background-image: linear-gradient(to right, #ff6caa, #F19EC2);
 	color: #fff;
 }
 
@@ -605,7 +605,7 @@ footer .container {
 
 footer:after {
 	content: ' ';
-	background-image: linear-gradient(to right, #697ded, #5e30c1);
+	background-image: linear-gradient(to right, #ff6caa, #F19EC2);
 	transform: skewY(-4deg);
 	z-index: 1;
 	position: absolute;
@@ -882,7 +882,7 @@ footer ul li a:hover {
 }
 
 .bg-gr {
-	background-image: linear-gradient(to right, #697ded, #5e30c1);	
+	background-image: linear-gradient(to right, #ff6caa, #F19EC2);	
 }
 
 .btn-white {
