@@ -220,7 +220,7 @@ body {
 .section-design:after,
 .hero:after {
 	content: ' ';
-	background-image: linear-gradient(to bottom, #697ded, #5e30c1);
+	background-image: linear-gradient(to bottom, #ff6caa, #F19EC2);
 	position: absolute;
 	border-radius: 50% 0 0 50%;
 	top: -180px;
