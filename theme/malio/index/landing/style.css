@@ -155,7 +155,7 @@ body {
 }
 
 .hero-mini {
-	background-image: linear-gradient(to right, #ff6caa, #F19EC2);
+	background-image: linear-gradient(to right, #697ded, #5e30c1);
 	padding-top: 40px;
 	height: 500px;
 	display: flex;
@@ -463,7 +463,7 @@ section .icon {
 }
 
 .section-dark {
-	background-color: #0b032d;
+	background-color: #ff5c94;
 	color: #fff;
 }
 .section-dark .lead {
@@ -471,7 +471,7 @@ section .icon {
 }
 .section-dark .btn {
 	background-color: #fff;
-	color: #0b032d;
+	color: #ff5c94;
 	padding: 10px 20px;
 	margin-top: 20px;
 	font-weight: 700;
@@ -836,7 +836,7 @@ footer ul li a:hover {
 
 .features .feature .feature-icon {
 	background-color: rgba(103,119,239,.1);
-	color: #6777ef;
+	color: #F19EC2;
 	display: inline-block;
 	border-radius: 50%;
 	width: 50px;
@@ -874,7 +874,7 @@ footer ul li a:hover {
     border-radius: 5px;
     height: 8px;
     width: 50px;
-    background-color: #6777ef;
+    background-color: #F19EC2;
     display: inline-block;
     float: left;
     margin-top: 20px;

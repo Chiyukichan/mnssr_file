@@ -63,7 +63,7 @@
 }
 
 a {
-  color: #6777ef;
+  color: #F19EC2;
   font-weight: 500;
   transition: all 0.5s;
   -webkit-transition: all 0.5s;
@@ -79,7 +79,7 @@ a:not(.btn-social-icon):not(.btn-social):not(.page-link) .fab {
 }
 
 .bg-primary {
-  background-color: #6777ef !important;
+  background-color: #F19EC2 !important;
 }
 
 .bg-secondary {
@@ -111,7 +111,7 @@ a:not(.btn-social-icon):not(.btn-social):not(.page-link) .fab {
 }
 
 .text-primary, .text-primary-all *, .text-primary-all *:before, .text-primary-all *:after {
-  color: #6777ef !important;
+  color: #F19EC2 !important;
 }
 
 .text-secondary, .text-secondary-all *, .text-secondary-all *:before, .text-secondary-all *:after {
@@ -1345,7 +1345,7 @@ table tr:hover .table-links {
   color: #fff;
 }
 .badge.badge-primary {
-  background-color: #6777ef;
+  background-color: #F19EC2;
 }
 .badge.badge-secondary {
   background-color: #34395e;
@@ -1629,9 +1629,9 @@ h6 .badge {
 }
 
 .btn-primary, .btn-primary.disabled {
-  box-shadow: 0 2px 6px #acb5f6;
-  background-color: #6777ef;
-  border-color: #6777ef;
+  box-shadow: 0 2px 6px #f19ec2;
+  background-color: #F19EC2;
+  border-color: #f19ec2;
 }
 .btn-primary:focus, .btn-primary.disabled:focus {
   background-color: #394eea !important;
